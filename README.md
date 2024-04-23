@@ -17,7 +17,6 @@ I'm a passionate full stack developer with expertise in PHP, JavaScript, and Pyt
 - Yii
 - CodeIgniter
 - Django
-- React
 - Node.js
 
 ### Others
