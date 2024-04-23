@@ -30,9 +30,9 @@ I'm a passionate full stack developer with expertise in PHP, JavaScript, and Pyt
 
 ## 📫 Get in Touch
 
-- LinkedIn: [Your LinkedIn Profile](linkedin.com/in/ajmi-ss-)
+- LinkedIn: [My LinkedIn Profile](https://linkedin.com/in/ajmi-ss-)
 
-- Email: [Your Email Address](ajmiss9493@gmail.com)
+- Email: [ajmiss9493@gmail.com](mailto:ajmiss9493@gmail.com)
 
 Let's collaborate and elevate your projects to new heights! Reach out to me and let's discuss how we can work together.
 
