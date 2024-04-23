@@ -1,16 +1,38 @@
 ### Hi there 👋
 
-<!--
-**ajmikallu/ajmikallu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
 
-Here are some ideas to get you started:
+I'm a passionate full stack developer with expertise in PHP, JavaScript, and Python. With years of experience under my belt, I specialize in crafting robust back-end solutions tailored to diverse project needs. My proficiency spans across a range of frameworks including Laravel, Yii, CodeIgniter, and Django. On the front-end, I'm skilled in building sleek interfaces and seamless user experiences using React and Node.js.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies & Tools
+
+### Languages
+- PHP
+- JavaScript
+- Python
+
+### Frameworks
+- Laravel
+- Yii
+- CodeIgniter
+- Django
+- React
+- Node.js
+
+### Others
+- HTML5
+- CSS3
+- MySQL
+- PostgreSQL
+- MongoDB
+- Git
+
+
+## 📫 Get in Touch
+
+- LinkedIn: [Your LinkedIn Profile](linkedin.com/in/ajmi-ss-)
+
+- Email: [Your Email Address](ajmiss9493@gmail.com)
+
+Let's collaborate and elevate your projects to new heights! Reach out to me and let's discuss how we can work together.
+
